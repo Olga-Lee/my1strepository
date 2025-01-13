@@ -10,11 +10,12 @@ Alternative text highlighting ways, bold or italic, give an opportunity to combi
 
 ## Lists 
 
+To highlight unordered list, mark  point with asteriks ( * ). 
+
 ## Working with images 
 
 To insert an image in text, you need to write the folllowing:
-![Hello, this is LuxHire!](logo LH.jpg).
-
+![Hello, this is LuxHire!] (logo LH.jpg).
 
 ## Links 
 
