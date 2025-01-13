@@ -12,6 +12,10 @@ Alternative text highlighting ways, bold or italic, give an opportunity to combi
 
 ## Working with images 
 
+To insert an image in text, you need to write the folllowing:
+![Hello, this is LuxHire!](logo LH.jpg).
+
+
 ## Links 
 
 ## Working with tables 
