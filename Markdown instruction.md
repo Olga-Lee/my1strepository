@@ -55,7 +55,8 @@ Tables in Markdown are created using pipes (|) and dashes (-). Each row is separ
 
 ## Block quotes
 
-<<<<<<< HEAD
+<<<<<<< Summary
+
 ## Conclusions 
 
 ### *GitHub simplifies version control and project collaboration, making it an ideal platform for beginners to manage and share code effectively. With its intuitive interface and access to a supportive community, it accelerates learning and fosters open-source contributions.*
