@@ -36,6 +36,21 @@ To insert an image in text, you need to write the folllowing:
 
 ## Block quotes
 
+GitHub Markdown allows you to format quotes using the blockquote syntax. Blockquotes are useful for highlighting text, including citations, or adding emphasis to a section of your content.
+
+1. To create a blockquote, use the > symbol followed by the text.
+
+> This is a blockquote.
+
+2. Nested Blockquotes
+
+To create nested blockquotes, use additional > symbols for each level of nesting.
+
+> Outer quote
+>> Inner quote
+>>> Deeper inner quote
+
+
 ## Conclusions
 
 
