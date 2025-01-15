@@ -32,6 +32,12 @@ To insert an image in text, you need to write the folllowing:
 
 ## Links 
 
+* To create a clickable hyperlink in GitHub:
+1. [Link Text](URL)
+[Visit GitHub](https://github.com) 
+2. To link to files or directories in your repository:
+[README.md](README.md) 
+
 ## Working with tables 
 
 ## Block quotes
