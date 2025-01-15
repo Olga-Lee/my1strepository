@@ -55,14 +55,6 @@ Tables in Markdown are created using pipes (|) and dashes (-). Each row is separ
 
 ## Block quotes
 
-<<<<<<< Summary
-
-## Conclusions 
-
-### *GitHub simplifies version control and project collaboration, making it an ideal platform for beginners to manage and share code effectively. With its intuitive interface and access to a supportive community, it accelerates learning and fosters open-source contributions.*
-=======
-GitHub Markdown allows you to format quotes using the blockquote syntax. Blockquotes are useful for highlighting text, including citations, or adding emphasis to a section of your content.
-
 1. To create a blockquote, use the > symbol followed by the text.
 
 > This is a blockquote.
@@ -77,7 +69,6 @@ To create nested blockquotes, use additional > symbols for each level of nesting
 
 
 ## Conclusions
->>>>>>> quotes
 
 ### *GitHub is an excellent platform for beginners to collaborate on projects, track code changes, and learn version control with Git, making teamwork and project organization seamless. Its user-friendly interface and vast community resources help new users quickly build technical skills and participate in open-source contributions.*
 
