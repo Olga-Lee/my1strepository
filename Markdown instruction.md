@@ -40,6 +40,19 @@ To insert an image in text, you need to write the folllowing:
 
 ## Working with tables 
 
+Tables in Markdown are created using pipes (|) and dashes (-). Each row is separated by a line break, and columns are defined by the pipes. Example:
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1A   | Row 1B   | Row 1C   |
+| Row 2A   | Row 2B   | Row 2C   |
+* You can align text in columns using colons (:) in the separator row.
+
+| Left-Aligned | Center-Aligned | Right-Aligned |
+|:-------------|:--------------:|--------------:|
+| Text 1       | Text 2         | Text 3        |
+| More Text    | Centered       | Aligned Right |
+
+
 ## Block quotes
 
 <<<<<<< HEAD
