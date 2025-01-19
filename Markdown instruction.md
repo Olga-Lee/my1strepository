@@ -31,10 +31,29 @@ To insert an image in text, you need to write the folllowing:
 ![Hello, this is LuxHire!] (logo LH.jpg).
 
 ## Links 
+In GitHub, you can create links using Markdown by enclosing the link text in square brackets [ ] followed by the URL in parentheses ( ), such as [GitHub](https://github.com).
 
 ## Working with tables 
+In GitHub, you can create tables using Markdown by using pipes | to separate columns and dashes - to create the header row, such as:
+
+markdown
+Copy code
+| Column 1 | Column 2 |
+|----------|----------|
+| Data 1   | Data 2   |
+
+
 
 ## Block quotes
+
+In GitHub, you can create block quotes in Markdown by starting a line with the > symbol, such as:
+> This is a block quote.
+
+## Working with remore repository
+A remote repository in GitHub is a cloud-hosted version of your project that you can link to your local repository, enabling collaboration and backup; you work with it using commands like git push to upload changes, git pull to fetch updates, and git clone to create local copies.
+
+## Pull request
+A pull request in GitHub is a way to propose and collaborate on changes to a codebase. It allows developers to submit changes from one branch (often in their forked repository) into another branch (usually the main branch) of a repository. The repository maintainers can review, discuss, and approve the changes before merging them.
 
 ## Conclusions
 
